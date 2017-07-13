@@ -71,7 +71,7 @@ authKey.twitterKeys
 }
 
 
-if (command === "spotify") {
+if (command === "spotify-this-song") {
     
 
 
